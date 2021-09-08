@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 align="center"> Алена пытается сделать гребаный сайт</h1>
+    <h2>Помогите мне, я пока могу сделать только эту часть (P.S. там после фотки еще текст)</h2>
+    <img src="tt.jpg">
+    <h2><b>И в чем прикол, я пока разобралась как вставлять текст и картинку, но сука блять как уменьшить картинку то??? Что бы она не была такой громадной?
+    </b></h2>
+</body>
+</html>
